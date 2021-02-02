@@ -1,0 +1,8 @@
+br\com\exemplo2\dao\TelefoneDao.class
+br\com\exemplo2\controller\EmpregadoController.class
+br\com\exemplo2\model\Projeto.class
+br\com\exemplo2\dao\EmpregadoDao.class
+br\com\exemplo2\model\Telefone.class
+br\com\exemplo2\model\Departamento.class
+br\com\exemplo2\model\Endereco.class
+br\com\exemplo2\model\Empregado.class
